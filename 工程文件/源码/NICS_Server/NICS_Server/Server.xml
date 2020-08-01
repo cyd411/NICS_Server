@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CONFIG>
+  <!--界面上的配置-->
+  <MAIN_FRM>
+    <!--ip-->
+    <IP>127.0.0.1</IP>
+    <!--端口-->
+    <PORT>7070</PORT>
+    <!--ID-->
+    <ID>000001</ID>
+    <!--端口-->
+    <API_PORT>7788</API_PORT>
+  </MAIN_FRM>
+
+  <!--SOCKET的配置信息-->
+  <SOCKET>
+    <!--最大并发数-->
+    <CLIENT_MAX_NUM>100</CLIENT_MAX_NUM>
+    <!--5 * 60 * 1000 ：  4分钟：300000-->
+    <SOCKET_TIMEOUT_MS>300000</SOCKET_TIMEOUT_MS>
+    <!--文件下载路径-->
+    <FILE_DIRECTORY>C:\Server</FILE_DIRECTORY>
+  </SOCKET>
+
+
+</CONFIG>
+

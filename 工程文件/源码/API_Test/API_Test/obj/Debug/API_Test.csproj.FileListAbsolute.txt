@@ -1,0 +1,13 @@
+C:\my\工作\兼职\NICS照明\工程文件\源码\API_Test\API_Test\API_Test\bin\Debug\API_Test.exe.config
+C:\my\工作\兼职\NICS照明\工程文件\源码\API_Test\API_Test\API_Test\bin\Debug\API_Test.exe
+C:\my\工作\兼职\NICS照明\工程文件\源码\API_Test\API_Test\API_Test\bin\Debug\API_Test.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\API_Test\API_Test\API_Test\bin\Debug\Newtonsoft.Json.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\API_Test\API_Test\API_Test\bin\Debug\RestSharp.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\API_Test\API_Test\API_Test\bin\Debug\Newtonsoft.Json.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\API_Test\API_Test\API_Test\bin\Debug\RestSharp.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\API_Test\API_Test\API_Test\obj\Debug\API_Test.exe
+C:\my\工作\兼职\NICS照明\工程文件\源码\API_Test\API_Test\API_Test\obj\Debug\API_Test.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\API_Test\API_Test\API_Test\obj\Debug\API_Test.csprojResolveAssemblyReference.cache
+C:\my\工作\NICS照明\工程文件\源码\API_Test\API_Test\API_Test\bin\Debug\API_Test.exe.config
+C:\my\工作\NICS照明\工程文件\源码\API_Test\API_Test\API_Test\obj\Debug\API_Test.exe
+C:\my\工作\NICS照明\工程文件\源码\API_Test\API_Test\API_Test\obj\Debug\API_Test.pdb

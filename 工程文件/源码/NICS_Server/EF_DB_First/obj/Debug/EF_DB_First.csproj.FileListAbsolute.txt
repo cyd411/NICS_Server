@@ -1,0 +1,72 @@
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll.config
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.pdb
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.xml
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll.config
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.csprojResolveAssemblyReference.cache
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll.config
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.csprojResolveAssemblyReference.cache
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.pdb
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll.config
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.pdb
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.xml
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.pdb
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.csprojResolveAssemblyReference.cache
+D:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll.config
+D:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll
+D:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.pdb
+D:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.dll
+D:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.dll
+D:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.dll
+D:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.xml
+D:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.xml
+D:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.csprojResolveAssemblyReference.cache
+D:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.dll
+D:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.pdb
+J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.csprojResolveAssemblyReference.cache
+J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.dll
+J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll.config
+J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll
+J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.pdb
+J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.dll
+J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.dll
+J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.dll
+J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.Entity.EF6.dll
+J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.xml
+J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.xml
+J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.pdb

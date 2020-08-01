@@ -1,0 +1,192 @@
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\RestFulService.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\RestFulService.pdb
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\Common.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\log4net.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\Model.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocket.Common.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocket.Facility.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocketServer.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\BLL.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\EF_DB_First.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\DAL.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\EntityFramework.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\MySql.Data.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\DBUtility.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\Common.pdb
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\Model.pdb
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocketServer.pdb
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\log4net.xml
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocket.Common.xml
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocket.Facility.xml
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocket.SocketBase.xml
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\BLL.pdb
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\EF_DB_First.pdb
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\DAL.pdb
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\EntityFramework.xml
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\DBUtility.pdb
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\obj\Debug\RestFulService.csprojResolveAssemblyReference.cache
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\obj\Debug\RestFulService.dll
+C:\Users\Tony\Desktop\NICS\NICS_Client_Server 20190626B\NICS_Client_Server\NICS_Server\RestFulService\obj\Debug\RestFulService.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\RestFulService.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\RestFulService.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\Common.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\log4net.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\Model.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocket.Common.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocket.Facility.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocket.SocketBase.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocketServer.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\BLL.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\EF_DB_First.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\Newtonsoft.Json.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\DAL.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\EntityFramework.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\MySql.Data.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\DBUtility.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\Common.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\Model.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocketServer.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\log4net.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocket.Common.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocket.Facility.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\SuperSocket.SocketBase.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\BLL.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\EF_DB_First.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\Newtonsoft.Json.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\DAL.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\EntityFramework.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\bin\Debug\DBUtility.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\obj\Debug\RestFulService.csprojResolveAssemblyReference.cache
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\obj\Debug\RestFulService.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Client_Server\NICS_Server\RestFulService\obj\Debug\RestFulService.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\RestFulService.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\RestFulService.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Common.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\log4net.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Model.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Common.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Facility.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.SocketBase.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocketServer.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\BLL.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EF_DB_First.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Newtonsoft.Json.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DAL.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EntityFramework.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\MySql.Data.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DBUtility.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Common.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Model.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocketServer.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\log4net.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Common.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Facility.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.SocketBase.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\BLL.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EF_DB_First.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Newtonsoft.Json.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DAL.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EntityFramework.xml
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DBUtility.pdb
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\obj\Debug\RestFulService.csprojResolveAssemblyReference.cache
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\obj\Debug\RestFulService.dll
+C:\my\工作\兼职\NICS照明\工程文件\源码\NICS_Server\RestFulService\obj\Debug\RestFulService.pdb
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\RestFulService.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\RestFulService.pdb
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Common.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\log4net.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Model.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Common.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Facility.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.SocketBase.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocketServer.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\BLL.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EF_DB_First.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Newtonsoft.Json.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DAL.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EntityFramework.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\MySql.Data.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DBUtility.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Common.pdb
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Model.pdb
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocketServer.pdb
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\log4net.xml
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Common.xml
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Facility.xml
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.SocketBase.xml
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\BLL.pdb
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EF_DB_First.pdb
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Newtonsoft.Json.xml
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DAL.pdb
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EntityFramework.xml
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DBUtility.pdb
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\obj\Debug\RestFulService.csprojResolveAssemblyReference.cache
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\obj\Debug\RestFulService.dll
+C:\my\工作\NICS照明\工程文件\源码\NICS_Server\RestFulService\obj\Debug\RestFulService.pdb
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\RestFulService.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\RestFulService.pdb
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Common.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\log4net.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Model.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Common.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Facility.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.SocketBase.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocketServer.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\BLL.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EF_DB_First.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Newtonsoft.Json.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DAL.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EntityFramework.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\MySql.Data.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DBUtility.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Common.pdb
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Model.pdb
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocketServer.pdb
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\log4net.xml
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Common.xml
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Facility.xml
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.SocketBase.xml
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\BLL.pdb
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EF_DB_First.pdb
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Newtonsoft.Json.xml
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DAL.pdb
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EntityFramework.xml
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DBUtility.pdb
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\obj\Debug\RestFulService.csprojResolveAssemblyReference.cache
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\obj\Debug\RestFulService.dll
+D:\NICS照明\工程文件\源码\NICS_Server\RestFulService\obj\Debug\RestFulService.pdb
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\RestFulService.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\RestFulService.pdb
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Common.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\log4net.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Model.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Common.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Facility.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.SocketBase.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocketServer.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\BLL.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EF_DB_First.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Newtonsoft.Json.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DAL.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EntityFramework.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\MySql.Data.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DBUtility.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Common.pdb
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Model.pdb
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocketServer.pdb
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\log4net.xml
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Common.xml
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.Facility.xml
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\SuperSocket.SocketBase.xml
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\BLL.pdb
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EF_DB_First.pdb
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\Newtonsoft.Json.xml
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DAL.pdb
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\EntityFramework.xml
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\bin\Debug\DBUtility.pdb
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\obj\Debug\RestFulService.csprojResolveAssemblyReference.cache
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\obj\Debug\RestFulService.dll
+J:\NICS照明\工程文件\源码\NICS_Server\RestFulService\obj\Debug\RestFulService.pdb
