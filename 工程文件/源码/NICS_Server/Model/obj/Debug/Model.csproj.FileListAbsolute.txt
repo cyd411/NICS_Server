@@ -27,3 +27,8 @@ D:\NICS照明\工程文件\源码\NICS_Server\Model\bin\Debug\Model.pdb
 D:\NICS照明\工程文件\源码\NICS_Server\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 D:\NICS照明\工程文件\源码\NICS_Server\Model\obj\Debug\Model.dll
 D:\NICS照明\工程文件\源码\NICS_Server\Model\obj\Debug\Model.pdb
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\Model\bin\Debug\Model.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\Model\bin\Debug\Model.pdb
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\Model\obj\Debug\Model.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\Model\obj\Debug\Model.pdb

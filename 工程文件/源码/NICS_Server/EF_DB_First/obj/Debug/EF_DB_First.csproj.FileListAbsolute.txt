@@ -70,3 +70,15 @@ J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.E
 J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.xml
 J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.xml
 J:\NICS照明\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.pdb
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll.config
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EF_DB_First.pdb
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.xml
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\EF_DB_First\bin\Debug\EntityFramework.SqlServer.xml
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.csprojResolveAssemblyReference.cache
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\EF_DB_First\obj\Debug\EF_DB_First.pdb

@@ -20,7 +20,7 @@ namespace SuperSocketServer.SocketCore
         /// <summary>
         /// 协议中body长度
         /// </summary>
-        public static int BODY_LEN = 4;
+        public static int BODY_LEN = 8;
 
         /// <summary>
         /// 协议中body开始下标
@@ -36,6 +36,6 @@ namespace SuperSocketServer.SocketCore
         /// <summary>
         /// 协议中body长度
         /// </summary>
-        public static int BODY_LEN_FROM_HEAD_LEN = 4;
+        public static int BODY_LEN_FROM_HEAD_LEN = 8;
     }
 }

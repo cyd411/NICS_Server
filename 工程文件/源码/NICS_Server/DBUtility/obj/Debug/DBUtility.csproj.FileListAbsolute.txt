@@ -26,3 +26,7 @@ D:\NICS照明\工程文件\源码\NICS_Server\DBUtility\bin\Debug\DBUtility.pdb
 D:\NICS照明\工程文件\源码\NICS_Server\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
 D:\NICS照明\工程文件\源码\NICS_Server\DBUtility\obj\Debug\DBUtility.dll
 D:\NICS照明\工程文件\源码\NICS_Server\DBUtility\obj\Debug\DBUtility.pdb
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DBUtility\bin\Debug\DBUtility.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DBUtility\bin\Debug\DBUtility.pdb
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DBUtility\obj\Debug\DBUtility.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DBUtility\obj\Debug\DBUtility.pdb

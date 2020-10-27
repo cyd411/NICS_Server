@@ -75,3 +75,14 @@ J:\NICS照明\工程文件\源码\NICS_Server\DAL\bin\Debug\Model.pdb
 J:\NICS照明\工程文件\源码\NICS_Server\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 J:\NICS照明\工程文件\源码\NICS_Server\DAL\obj\Debug\DAL.dll
 J:\NICS照明\工程文件\源码\NICS_Server\DAL\obj\Debug\DAL.pdb
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DAL\bin\Debug\DAL.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DAL\bin\Debug\DAL.pdb
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DAL\bin\Debug\Common.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DAL\bin\Debug\DBUtility.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DAL\bin\Debug\Model.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DAL\bin\Debug\Common.pdb
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DAL\bin\Debug\DBUtility.pdb
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DAL\bin\Debug\Model.pdb
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DAL\obj\Debug\DAL.dll
+C:\my\work\NICS_Server\NICS_Server\工程文件\源码\NICS_Server\DAL\obj\Debug\DAL.pdb
